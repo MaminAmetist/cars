@@ -1,1 +1,1 @@
-https://maminametist.github.io/cars/
+Деплой выполнен на https://maminametist.github.io/cars/
